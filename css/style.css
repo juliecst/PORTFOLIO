@@ -118,11 +118,14 @@ footer{
     margin:10px;
 }
 
+<<<<<<< HEAD
 #my-id-FP3{
     background-image: url(../images/spaceBetween.jpg);
     margin:10px;
 }
 
+=======
+>>>>>>> 279a2b57853f9bcca3e36da2f67b453471ebf276
 .flex-item a:hover{
     color:#bbbbbb;
     background-size: 120%;
